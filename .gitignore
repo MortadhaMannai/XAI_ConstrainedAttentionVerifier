@@ -1,0 +1,9 @@
+/.cache/
+*/**/.cache/
+*/**/__pycache__/
+*/**/.ipynb_checkpoints/
+/src/*.sh
+.DS_Store
+*/**/.DS_store
+.idea
+.idea/**
