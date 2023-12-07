@@ -1,10 +1,15 @@
 # Regularization, semi-supervision, and supervision for a plausible attention-based explanation
 
 --------------------------------------------------------------------------------------------------------------
+# Author : Manai Mortadha
+
+## ABOUT :
 
 Code for the NLDB 2023 paper. Work partially funded by grant ANR-19-CE38-0011-03 from the French national research agency (ANR).
+SOURCE :Duc Hau Nguyen, Cyrielle Mallart, Guillaume Gravier, Pascale Sebillot
 
-## Abstract
+
+## Abstract :
 
 > Attention mechanism is contributing to the majority of recent advances in machine learning for natural language 
 > processing. Additionally, it results in an attention map that shows the proportional influence of each input in its 
