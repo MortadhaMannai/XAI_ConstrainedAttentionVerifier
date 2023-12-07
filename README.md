@@ -1,6 +1,6 @@
 # Regularization, semi-supervision, and supervision for a plausible attention-based explanation
 
-SOURCE :Duc Hau Nguyen, Cyrielle Mallart, Guillaume Gravier, Pascale Sebillot
+--------------------------------------------------------------------------------------------------------------
 
 Code for the NLDB 2023 paper. Work partially funded by grant ANR-19-CE38-0011-03 from the French national research agency (ANR).
 
